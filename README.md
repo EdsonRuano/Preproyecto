@@ -1,0 +1,2 @@
+# Preproyecto
+Archivos secuenciales indexados
