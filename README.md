@@ -1,16 +1,10 @@
-# Preproyecto
-Archivos secuenciales indexados
+# include <iostream>
 
-#include <iostream.h>
-
-using namespace std
+using namespace std;
 
 int main()
-
 {
-
-cout<<"Hola Mundo";
-
-system("PAUSE");
-
+	
+	cout<<"Hola Mundo"<<endl;
+	
 }
